@@ -3,5 +3,5 @@ This is Git Automation Login with the help of Orchestrator.
 
 
 
-***Note***
+***Note***:
 Orchestrator Asset is used to store Credentials
